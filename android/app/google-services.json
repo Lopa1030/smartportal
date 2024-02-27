@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563709700410",
+    "project_id": "smartportal-uzlyuy",
+    "storage_bucket": "smartportal-uzlyuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563709700410:android:add4981e0378a6fff84803",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnN4U_qujVEaCDJn8qnf14UoW8eWlSKb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
